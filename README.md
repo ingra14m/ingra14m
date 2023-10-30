@@ -1,7 +1,5 @@
 ![Walsvid's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=ingra14m&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ingra14m&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ![](https://komarev.com/ghpvc/?username=ingra14m)
 
 <!-- 
